@@ -70,22 +70,22 @@
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="four-elements--image"><i class="fa fa-eye" aria-hidden="true"></i></div>
                         <h3>教学靠谱</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
+                        <p>安城的教师团队均来自一线互联网公司，有着一线互联网公司的实战背景和资历，知名讲师+专业助教搭配教学， 安城的课程更具含金量。</p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="four-elements--image"><i class="fa fa-heart" aria-hidden="true"></i></div>
                         <h3>企业化管理</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
+                        <p>管理模式贴近企业化管理模式，学生的身份为学员，学员即学习中的职员、学习中的员工，以职场化规则管理学员的日常行为，力求在学习过程中养成良好的学习和工作习惯。</p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="four-elements--image"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></div>
                         <h3>最先进的技术</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
+                        <p>课程内容与时俱进，代课老师时时市场考察，课程体系迭代更新频率为月度更新，以目前互联网市场中最主流、最刚需的内容作为授课内容，让学员在学习过程中就融入当今的互联网时代中。</p>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="four-elements--image"><i class="fa fa-comments-o" aria-hidden="true"></i></div>
                         <h3>职业素质</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
+                        <p>职业技能教育，除了培养技术与工作能力外，很多都忽略了职业素质的培养，安城会让你在学习期间就成为一名合格的职场人。</p>
                     </div>
                 </div>
             </div>
@@ -119,19 +119,19 @@
                         <div class="case-study--left__textslider">
                             <div>
                                 <div class="case-study--left__textslider__image"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></div>
-                                <h4>Accumulate creative ideas</h4>
+                                <h4>发挥你的想象力</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ip sum has been the industry's standard dummy text ever since the 1500s, when an unk- nown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                 <a href="#" class="button small">Read More</a>
                             </div>
                             <div>
                                 <div class="case-study--left__textslider__image"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></div>
-                                <h4>Accumulate creative ideas</h4>
+                                <h4>扩展你的思维路径</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ip sum has been the industry's standard dummy text ever since the 1500s, when an unk- nown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                 <a href="#" class="button small">Read More</a>
                             </div>
                             <div>
                                 <div class="case-study--left__textslider__image"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></div>
-                                <h4>Accumulate creative ideas</h4>
+                                <h4>成就你的创业梦想</h4>
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ip sum has been the industry's standard dummy text ever since the 1500s, when an unk- nown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                 <a href="#" class="button small">Read More</a>
                             </div>

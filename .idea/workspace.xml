@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2204cbec-22f4-4597-a60d-1a8f5ffd1a36" name="Default Changelist" comment="安城官网前台">
+      <change afterPath="$PROJECT_DIR$/.idea/anchengedu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/anchengeduViews.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP-5.6" />
+  <component name="ProjectId" id="1gOtdjkQEmTDtJnVOAoLPaUUeyb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PhpstormProjects\anchengeduViews" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2204cbec-22f4-4597-a60d-1a8f5ffd1a36" name="Default Changelist" comment="" />
+      <created>1597997556284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597997556284</updated>
+      <workItem from="1597997558044" duration="4931000" />
+      <workItem from="1598058849734" duration="2615000" />
+      <workItem from="1598061550932" duration="7000" />
+      <workItem from="1598061611652" duration="1690000" />
+      <workItem from="1598231258248" duration="5000000" />
+      <workItem from="1598318440924" duration="3201000" />
+    </task>
+    <task id="LOCAL-00001" summary="安城官网前台">
+      <created>1598064020095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598064020095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\bin\sh.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="安城官网前台" />
+    <option name="LAST_COMMIT_MESSAGE" value="安城官网前台" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="72" key="#PHP" timestamp="1598001476470">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="409" y="72" key="#PHP/0.0.1440.860@0.0.1440.860" timestamp="1598001476470" />
+    <state x="502" y="186" key="FileChooserDialogImpl" timestamp="1598061878218">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="502" y="186" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1598061878218" />
+    <state x="537" y="353" key="NewPhpFileDialog" timestamp="1598058985318">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="537" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1598058985318" />
+    <state x="222" y="75" key="SettingsEditor" timestamp="1598061881858">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="222" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1598061881858" />
+    <state x="313" y="150" key="Vcs.Push.Dialog.v2" timestamp="1598064024225">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="313" y="150" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1598064024225" />
+  </component>
+</project>
